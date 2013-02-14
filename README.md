@@ -4,7 +4,7 @@ A javascript project based on
 
 * [D3.js][d3js]
 * [jQuery][jquery]
-* [Twitter Bootstrap][twitter boostrap]
+* [Twitter Bootstrap][twitter bootstrap]
 
 
 D3.js is used for svg manipulation. 
