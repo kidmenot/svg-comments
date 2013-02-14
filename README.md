@@ -1,4 +1,4 @@
-# SVG COMMENTS
+**SVG COMMENTS**
 
 A javascript project based on 
 
